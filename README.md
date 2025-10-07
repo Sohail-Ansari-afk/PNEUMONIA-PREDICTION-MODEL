@@ -2,6 +2,9 @@
 
 An end‑to‑end project to detect Pneumonia from chest X‑rays using a Convolutional Neural Network (CNN) and a simple Streamlit web app for interactive inference.
 
+<img width="1101" height="486" alt="image" src="https://github.com/user-attachments/assets/4326b18f-aa8b-4f91-a28e-d2506649ea9d" />
+
+
 ### Demo
 
 Sample X‑ray images used in this project:
