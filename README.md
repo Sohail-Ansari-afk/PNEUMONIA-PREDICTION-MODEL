@@ -8,11 +8,13 @@ Sample X‑ray images used in this project:
 
 Normal example:
 
-![Normal X‑ray](test/NORMAL/IM-0001-0001.jpeg)
+<img width="1222" height="1121" alt="image" src="https://github.com/user-attachments/assets/ad17a749-ff53-498d-a88d-b44a9f27cd44" />
+
 
 Pneumonia example (replace the filename below with any file from `test/PNEUMONIA/` on your machine if it doesn't render in your clone):
 
-![Pneumonia X‑ray](test/PNEUMONIA/your_pneumonia_image.jpeg)
+<img width="1090" height="1106" alt="image" src="https://github.com/user-attachments/assets/f5fa75f3-54f4-429c-af5a-e7d3d53efbf1" />
+
 
 
 ### Features
